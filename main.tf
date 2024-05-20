@@ -1,5 +1,5 @@
 terraform {
-   required_version = "~> 1.6.0"
+   #required_version = "~> 1.6.0"
   cloud {
     hostname = "tarun-replicated.tarun-bansal.sbx.hashidemos.io"
     organization = "Tarun"
